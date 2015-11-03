@@ -1,4 +1,3 @@
 # styleguide
 
-### This repository shows examples of how code
-### has to be used!
+### This repository shows examples of how code has to be written!
